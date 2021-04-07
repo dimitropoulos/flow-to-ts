@@ -13,6 +13,8 @@ const parseOptions = {
     "jsx",
     "flow",
 
+    "decorators-legacy",
+
     // handle esnext syntax
     "classProperties",
     "objectRestSpread",
